@@ -1,0 +1,12 @@
+.contact-content{
+    /* height: 405px; */
+    height: 100vh;
+    margin-top: 32px;
+    padding: 9px;
+    position: relative;
+    overflow: hidden;
+
+}
+.content-form{
+    height: 80vw;
+}
